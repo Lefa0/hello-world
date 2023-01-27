@@ -3,5 +3,5 @@ Beginner repository.
 
 - Bullet 
 # About myself
-I'm an Intern Software Engineering Intern at Investec.
+I'm a Software Engineering Intern at Investec.
 Enjoys coding and cooking.
